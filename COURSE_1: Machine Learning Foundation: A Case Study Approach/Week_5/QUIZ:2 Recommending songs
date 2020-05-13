@@ -1,0 +1,11 @@
+
+QUIZ:2 Recommending songs
+
+Question:1 Which of the artists below have had the most unique users listening to their songs?
+Answer: Taylor Swift
+
+Question:2 Which of the artists below is the most popular artist, the one with highest total listen_count, in the data set?
+Answer: Kings Of Leon
+
+Question:3 Which of the artists below is the least popular artist, the one with smallest total listen_count, in the data set?
+Answer: William Tabbert
