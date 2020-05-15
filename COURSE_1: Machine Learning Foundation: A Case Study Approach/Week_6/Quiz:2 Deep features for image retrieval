@@ -1,0 +1,26 @@
+#Deep features for image retrieval
+
+Question:1 What’s the least common category in the training data?
+Answer: Bird
+
+Question:2 Of the images below, which is the nearest ‘cat’ labeled image in the training data to the the first image in the test data 
+(image_test[0:1])?
+Answer: Option f)
+
+Question:3 Of the images below, which is the nearest ‘dog’ labeled image in the training data to the the first image in the test data 
+(image_test[0:1])?
+Answer: Option d)
+
+Question:4 For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that 
+were labeled ‘cat’ in the training data?
+Answer: 35 to 37
+
+Question:5 For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that
+were labeled ‘dog’ in the training data?
+Answer: 37 to 39
+
+Question:6 On average, is the first image in the test data closer to its 5 nearest neighbors in the ‘cat’ data or in the ‘dog’ data?
+Answer:6 cat
+
+Question:7 In what range is the accuracy of the 1-nearest neighbor classifier at classifying ‘dog’ images from the test set?
+Answer: 60 to 70
