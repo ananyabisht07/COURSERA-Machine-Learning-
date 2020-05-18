@@ -1,0 +1,48 @@
+Classification
+
+1.Question 1
+The simple threshold classifier for sentiment analysis described in the video (check all that apply):
+
+Ans:  1: Must either count attributes equally or pre-define weights on attributes
+      2: Must have pre-defined positive and negative attributes.
+
+
+2.Question 2
+For a linear classifier classifying between “positive” and “negative” sentiment in a review x, Score(x) = 0 implies (check all that apply):
+
+Ans: We are uncertain whether the review is “positive” or “negative”.
+
+
+3.Question 3
+For which of the following datasets would a linear classifier perform perfectly?
+
+Ans:Option B
+
+
+4.Question 4   True or false:
+ High classification accuracy always indicates a good classifier.
+
+Ans: False
+
+
+5.Question 5    True or false:
+ For a classifier classifying between 5 classes, there always exists a classifier with accuracy greater than 0.18.
+
+Ans: True
+
+
+6.Question 6  True or false: 
+ A false negative is always worse than a false positive.
+
+Ans: False
+
+
+7.Question 7
+Which of the following statements are true? (Check all that apply)
+
+Ans: test error tends to decrease with more training data until appoint, and then does not change(i.e., curve flattens out)
+
+
+
+
+
