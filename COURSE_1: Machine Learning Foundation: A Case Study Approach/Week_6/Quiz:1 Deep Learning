@@ -1,0 +1,35 @@
+Deep Learning(QUIZ)
+
+
+Question:1 Which of the following statements are true? (Check all that apply)
+
+Answer: c:- Having good non-linear features can allow us to learn very accurate linear classifier.
+
+
+
+Question:2 A simple linear classifier can represent which of the following functions? (Check all that apply)
+
+Answer: a) x1 OR x2 OR NOT x3
+        b) x1 AND x2 AND NOT x3
+        c) x1 OR (x2 AND NOT x3)
+
+
+Question:3 Which of the the following neural networks can represent the following function? Select all that apply.
+(x1 AND x2) OR (NOT x1 AND NOT x2)
+
+Answer: d
+
+
+Question:4  Which of the following statements is true? (Check all that apply)
+
+Answer:
+
+
+Question:5 If you have lots of images of different types of plankton labeled with their species name, and lots of computational resources, what would you expect to perform better predictions:
+
+Answer: a) a deep neural network trained on this data.
+
+
+Question:6 If you have a few images of different types of plankton labeled with their species name, what would you expect to perform better predictions:
+
+Answer: b) a simple classifier trained on this data, using deep features as input, which were trained using ImageNet data.
